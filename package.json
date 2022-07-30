@@ -11,5 +11,13 @@
     "type": "git",
     "url": "https://idontknow/todo.git"
   },
-  "author": "julian"
+  "author": "julian",
+  "description": "a bunch of files",
+  "keywords": [
+    "freecodecamp",
+    "aaaa",
+    "bbbbb"
+  ],
+  "license": "BSD",
+  "version": "0.01"
 }
